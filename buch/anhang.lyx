@@ -24,6 +24,66 @@
 \papersides 2
 \paperpagestyle default
 
+\layout Comment
+
+anhang.lyx -> GPL english and german
+\layout Comment
+
+Copyright (C) 2004 Joerg Meinhold 
+\layout Comment
+
+This program is free software; you can redistribute it and/or modify it
+ under the terms of the GNU General Public License as published by the Free
+ Software Foundation; either version 2 of the License.
+\layout Comment
+
+This program is distributed in the hope that it will be useful, but WITHOUT
+ ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS
+ FOR A PARTICULAR PURPOSE.
+ See the GNU General Public License for more details.
+\layout Comment
+
+You should have received a copy of the GNU General Public License along
+ with this program; if not, write to the Free Software Foundation, Inc.,
+ 59 Temple Place, Suite 330, Boston, MA 02111-1307, USA.
+\layout Comment
+
+\SpecialChar ~
+
+\layout Comment
+
+anhang.lyx -> GPL in englisch und deutsch
+\layout Comment
+
+Copyright (C) 2004 Joerg Meinhold
+\layout Comment
+
+Dieses Programm ist freie Software.
+ Sie können es unter den Bedingungen der GNU General Public License, wie
+ von der Free Software Foundation veröffentlicht, weitergeben und/oder modifizie
+ren, gemäß Version 2 der Lizenz.
+\layout Comment
+
+Die Veröffentlichung dieses Programms erfolgt in der Hoffnung, daß es Ihnen
+ von Nutzen sein wird, aber OHNE IRGENDEINE GARANTIE, sogar ohne die implizite
+ Garantie der MARKTREIFE oder der VERWENDBARKEIT FÜR EINEN BESTIMMTEN ZWECK.
+ Details finden Sie in der GNU General Public License.
+\layout Comment
+
+Sie sollten eine Kopie der GNU General Public License zusammen mit diesem
+ Programm erhalten haben.
+ Falls nicht, schreiben Sie an die Free Software Foundation, Inc., 59 Temple
+ Place, Suite 330, Boston, MA 02111-1307, USA.
+\layout Comment
+
+\SpecialChar ~
+
+\layout Comment
+
+$ Revision: $
+\layout Comment
+
+$ Id: $
 \layout Chapter
 \start_of_appendix 
 GNU GENERAL PUBLIC LICENSE Version 2, June 1991
@@ -774,569 +834,216 @@ ung und Verbreitung ist nichtig und beendet automatisch Ihre Rechte unter
  und Veränderung des Programms oder eines darauf basierenden Datenwerks.
 \layout Standard
 
-\SpecialChar ~
-
-\layout Standard
-
 §6.
  Jedesmal, wenn Sie das Programm (oder ein auf dem Programm basierendes
-\layout Standard
-
-Datenwerk) weitergeben, erhält der Empfänger automatisch vom ursprünglichen
-\layout Standard
-
-Lizenzgeber die Lizenz, das Programm entsprechend den hier festgelegten
-\layout Standard
-
-Bestimmungen zu vervielfältigen, zu verbreiten und zu verändern.
- Sie dürfen
-\layout Standard
-
-keine weiteren Einschränkungen der Durchsetzung der hierin zugestandenen
- Rechte
-\layout Standard
-
-des Empfängers vornehmen.
- Sie sind nicht dafür verantwortlich, die Einhaltung
-\layout Standard
-
-dieser Lizenz durch Dritte durchzusetzen.
-\layout Standard
-
-\SpecialChar ~
-
+ Datenwerk) weitergeben, erhält der Empfänger automatisch vom ursprünglichen
+ Lizenzgeber die Lizenz, das Programm entsprechend den hier festgelegten
+ Bestimmungen zu vervielfältigen, zu verbreiten und zu verändern.
+ Sie dürfen keine weiteren Einschränkungen der Durchsetzung der hierin zugestand
+enen Rechte des Empfängers vornehmen.
+ Sie sind nicht dafür verantwortlich, die Einhaltung dieser Lizenz durch
+ Dritte durchzusetzen.
 \layout Standard
 
 §7.
- Sollten Ihnen infolge eines Gerichtsurteils, des Vorwurfs einer
-\layout Standard
-
-Patentverletzung oder aus einem anderen Grunde (nicht auf Patentfragen begrenzt)
-\layout Standard
-
-Bedingungen (durch Gerichtsbeschluß, Vergleich oder anderweitig) auferlegt
-\layout Standard
-
-werden, die den Bedingungen dieser Lizenz widersprechen, so befreien Sie
- diese
-\layout Standard
-
-Umstände nicht von den Bestimmungen dieser Lizenz.
- Wenn es Ihnen nicht möglich
-\layout Standard
-
-ist, das Programm unter gleichzeitiger Beachtung der Bedingungen in dieser
-\layout Standard
-
-Lizenz und Ihrer anderweitigen Verpflichtungen zu verbreiten, dann dürfen
- Sie
-\layout Standard
-
-als Folge das Programm überhaupt nicht verbreiten.
- Wenn zum Beispiel ein Patent
-\layout Standard
-
-nicht die gebührenfreie Weiterverbreitung des Programms durch diejenigen
-\layout Standard
-
-erlaubt, die das Programm direkt oder indirekt von Ihnen erhalten haben,
- dann
-\layout Standard
-
-besteht der einzige Weg, sowohl das Patentrecht als auch diese Lizenz zu
-\layout Standard
-
-befolgen, darin, ganz auf die Verbreitung des Programms zu verzichten.
-\layout Standard
-
-\SpecialChar ~
-
+ Sollten Ihnen infolge eines Gerichtsurteils, des Vorwurfs einer Patentverletzun
+g oder aus einem anderen Grunde (nicht auf Patentfragen begrenzt) Bedingungen
+ (durch Gerichtsbeschluß, Vergleich oder anderweitig) auferlegt werden,
+ die den Bedingungen dieser Lizenz widersprechen, so befreien Sie diese
+ Umstände nicht von den Bestimmungen dieser Lizenz.
+ Wenn es Ihnen nicht möglich ist, das Programm unter gleichzeitiger Beachtung
+ der Bedingungen in dieser Lizenz und Ihrer anderweitigen Verpflichtungen
+ zu verbreiten, dann dürfen Sie als Folge das Programm überhaupt nicht verbreite
+n.
+ Wenn zum Beispiel ein Patent nicht die gebührenfreie Weiterverbreitung
+ des Programms durch diejenigen erlaubt, die das Programm direkt oder indirekt
+ von Ihnen erhalten haben, dann besteht der einzige Weg, sowohl das Patentrecht
+ als auch diese Lizenz zu befolgen, darin, ganz auf die Verbreitung des
+ Programms zu verzichten.
 \layout Standard
 
 Sollte sich ein Teil dieses Paragraphen als ungültig oder unter bestimmten
-\layout Standard
-
-Umständen nicht durchsetzbar erweisen, so soll dieser Paragraph seinem Sinne
-\layout Standard
-
-nach angewandt werden; im übrigen soll dieser Paragraph als Ganzes gelten.
-\layout Standard
-
-\SpecialChar ~
-
+ Umständen nicht durchsetzbar erweisen, so soll dieser Paragraph seinem
+ Sinne nach angewandt werden; im übrigen soll dieser Paragraph als Ganzes
+ gelten.
 \layout Standard
 
 Zweck dieses Paragraphen ist nicht, Sie dazu zu bringen, irgendwelche Patente
-\layout Standard
-
-oder andere Eigentumsansprüche zu verletzen oder die Gültigkeit solcher
-\layout Standard
-
-Ansprüche zu bestreiten; dieser Paragraph hat einzig den Zweck, die Integrität
-\layout Standard
-
-des Verbreitungssystems der freien Software zu schützen, das durch die Praxis
-\layout Standard
-
-öffentlicher Lizenzen verwirklicht wird.
- Viele Leute haben großzügige Beiträge
-\layout Standard
-
-zu dem großen Angebot der mit diesem System verbreiteten Software im Vertrauen
-\layout Standard
-
-auf die konsistente Anwendung dieses Systems geleistet; es liegt am Autor/Geber,
-\layout Standard
-
-zu entscheiden, ob er die Software mittels irgendeines anderen Systems
-\layout Standard
-
-verbreiten will; ein Lizenznehmer hat auf diese Entscheidung keinen Einfluß.
-\layout Standard
-
-\SpecialChar ~
-
+ oder andere Eigentumsansprüche zu verletzen oder die Gültigkeit solcher
+ Ansprüche zu bestreiten; dieser Paragraph hat einzig den Zweck, die Integrität
+ des Verbreitungssystems der freien Software zu schützen, das durch die
+ Praxis öffentlicher Lizenzen verwirklicht wird.
+ Viele Leute haben großzügige Beiträge zu dem großen Angebot der mit diesem
+ System verbreiteten Software im Vertrauen auf die konsistente Anwendung
+ dieses Systems geleistet; es liegt am Autor/Geber, zu entscheiden, ob er
+ die Software mittels irgendeines anderen Systems verbreiten will; ein Lizenzneh
+mer hat auf diese Entscheidung keinen Einfluß.
 \layout Standard
 
 Dieser Paragraph ist dazu gedacht, deutlich klarzustellen, was als Konsequenz
-\layout Standard
-
-aus dem Rest dieser Lizenz betrachtet wird.
-\layout Standard
-
-\SpecialChar ~
-
+ aus dem Rest dieser Lizenz betrachtet wird.
 \layout Standard
 
 §8.
  Wenn die Verbreitung und/oder die Benutzung des Programms in bestimmten
-\layout Standard
-
-Staaten entweder durch Patente oder durch urheberrechtlich geschützte
-\layout Standard
-
-Schnittstellen eingeschränkt ist, kann der Urheberrechtsinhaber, der das
-\layout Standard
-
-Programm unter diese Lizenz gestellt hat, eine explizite geographische
-\layout Standard
-
-Begrenzung der Verbreitung angeben, in der diese Staaten ausgeschlossen
- werden,
-\layout Standard
-
-so daß die Verbreitung nur innerhalb und zwischen den Staaten erlaubt ist,
- die
-\layout Standard
-
-nicht ausgeschlossen sind.
- In einem solchen Fall beinhaltet diese Lizenz die
-\layout Standard
-
-Beschränkung, als wäre sie in diesem Text niedergeschrieben.
-\layout Standard
-
-\SpecialChar ~
-
+ Staaten entweder durch Patente oder durch urheberrechtlich geschützte Schnittst
+ellen eingeschränkt ist, kann der Urheberrechtsinhaber, der das Programm
+ unter diese Lizenz gestellt hat, eine explizite geographische Begrenzung
+ der Verbreitung angeben, in der diese Staaten ausgeschlossen werden, so
+ daß die Verbreitung nur innerhalb und zwischen den Staaten erlaubt ist,
+ die nicht ausgeschlossen sind.
+ In einem solchen Fall beinhaltet diese Lizenz die Beschränkung, als wäre
+ sie in diesem Text niedergeschrieben.
 \layout Standard
 
 §9.
  Die Free Software Foundation kann von Zeit zu Zeit überarbeitete und/oder
-\layout Standard
-
-neue Versionen der General Public License veröffentlichen.
- Solche neuen
-\layout Standard
-
-Versionen werden vom Grundprinzip her der gegenwärtigen entsprechen, können
- aber
-\layout Standard
-
-im Detail abweichen, um neuen Problemen und Anforderungen gerecht zu werden.
-\layout Standard
-
-\SpecialChar ~
-
+ neue Versionen der General Public License veröffentlichen.
+ Solche neuen Versionen werden vom Grundprinzip her der gegenwärtigen entspreche
+n, können aber im Detail abweichen, um neuen Problemen und Anforderungen
+ gerecht zu werden.
 \layout Standard
 
 Jede Version dieser Lizenz hat eine eindeutige Versionsnummer.
- Wenn in einem
-\layout Standard
+ Wenn in einem Programm angegeben wird, daß es dieser Lizenz in einer bestimmten
+ Versionsnummer oder ,,jeder späteren Version
+\begin_inset Quotes prd
+\end_inset 
 
-Programm angegeben wird, daß es dieser Lizenz in einer bestimmten Versionsnummer
-\layout Standard
+ (
+\begin_inset Quotes pld
+\end_inset 
 
-oder ,,jeder späteren Version`` (``any later version'') unterliegt, so haben
- Sie
-\layout Standard
+any later version
+\begin_inset Quotes prd
+\end_inset 
 
-die Wahl, entweder den Bestimmungen der genannten Version zu folgen oder
- denen
-\layout Standard
-
-jeder beliebigen späteren Version, die von der Free Software Foundation
-\layout Standard
-
-veröffentlicht wurde.
- Wenn das Programm keine Versionsnummer angibt, können Sie
-\layout Standard
-
-eine beliebige Version wählen, die je von der Free Software Foundation
-\layout Standard
-
-veröffentlicht wurde.
-\layout Standard
-
-\SpecialChar ~
-
+) unterliegt, so haben Sie die Wahl, entweder den Bestimmungen der genannten
+ Version zu folgen oder denen jeder beliebigen späteren Version, die von
+ der Free Software Foundation veröffentlicht wurde.
+ Wenn das Programm keine Versionsnummer angibt, können Sie eine beliebige
+ Version wählen, die je von der Free Software Foundation veröffentlicht
+ wurde.
 \layout Standard
 
 §10.
- Wenn Sie den Wunsch haben, Teile des Programms in anderen freien
-\layout Standard
-
-Programmen zu verwenden, deren Bedingungen für die Verbreitung anders sind,
-\layout Standard
-
-schreiben Sie an den Autor, um ihn um die Erlaubnis zu bitten.
- Für Software, die
-\layout Standard
-
-unter dem Copyright der Free Software Foundation steht, schreiben Sie an
- die
-\layout Standard
-
-Free Software Foundation ; wir machen zu diesem Zweck gelegentlich Ausnahmen.
-\layout Standard
-
-Unsere Entscheidung wird von den beiden Zielen geleitet werden, zum einen
- den
-\layout Standard
-
-freien Status aller von unserer freien Software abgeleiteten Datenwerke
- zu
-\layout Standard
-
-erhalten und zum anderen das gemeinschaftliche Nutzen und Wiederverwenden
- von
-\layout Standard
-
-Software im allgemeinen zu fördern.
-\layout Standard
-
-\SpecialChar ~
-
-\layout Standard
-
-\SpecialChar ~
-
-\layout Standard
-
-\SpecialChar ~
-
-\layout Standard
-
-\SpecialChar ~
-
-\layout Standard
-
-\SpecialChar ~
-
-\layout Standard
+ Wenn Sie den Wunsch haben, Teile des Programms in anderen freien Programmen
+ zu verwenden, deren Bedingungen für die Verbreitung anders sind, schreiben
+ Sie an den Autor, um ihn um die Erlaubnis zu bitten.
+ Für Software, die unter dem Copyright der Free Software Foundation steht,
+ schreiben Sie an die Free Software Foundation ; wir machen zu diesem Zweck
+ gelegentlich Ausnahmen.
+ Unsere Entscheidung wird von den beiden Zielen geleitet werden, zum einen
+ den freien Status aller von unserer freien Software abgeleiteten Datenwerke
+ zu erhalten und zum anderen das gemeinschaftliche Nutzen und Wiederverwenden
+ von Software im allgemeinen zu fördern.
+\layout Subsection*
 
 Keine Gewährleistung
 \layout Standard
 
-\SpecialChar ~
-
-\layout Standard
-
-\SpecialChar ~
-
-\layout Standard
-
 §11.
  Da das Programm ohne jegliche Kosten lizenziert wird, besteht keinerlei
-\layout Standard
-
-Gewährleistung für das Programm, soweit dies gesetzlich zulässig ist.
- Sofern
-\layout Standard
-
-nicht anderweitig schriftlich bestätigt, stellen die Copyright-Inhaber und/oder
-\layout Standard
-
-Dritte das Programm so zur Verfügung, ,,wie es ist``, ohne irgendeine
-\layout Standard
-
-Gewährleistung, weder ausdrücklich noch implizit, einschließlich - aber
- nicht
-\layout Standard
-
-begrenzt auf - Marktreife oder Verwendbarkeit für einen bestimmten Zweck.
- Das
-\layout Standard
-
-volle Risiko bezüglich Qualität und Leistungsfähigkeit des Programms liegt
- bei
-\layout Standard
-
-Ihnen.
+ Gewährleistung für das Programm, soweit dies gesetzlich zulässig ist.
+ Sofern nicht anderweitig schriftlich bestätigt, stellen die Copyright-Inhaber
+ und/oder Dritte das Programm so zur Verfügung, ,,wie es ist``, ohne irgendeine
+ Gewährleistung, weder ausdrücklich noch implizit, einschließlich - aber
+ nicht begrenzt auf - Marktreife oder Verwendbarkeit für einen bestimmten
+ Zweck.
+ Das volle Risiko bezüglich Qualität und Leistungsfähigkeit des Programms
+ liegt bei Ihnen.
  Sollte sich das Programm als fehlerhaft herausstellen, liegen die Kosten
-\layout Standard
-
-für notwendigen Service, Reparatur oder Korrektur bei Ihnen.
-\layout Standard
-
-\SpecialChar ~
-
+ für notwendigen Service, Reparatur oder Korrektur bei Ihnen.
 \layout Standard
 
 §12.
- In keinem Fall, außer wenn durch geltendes Recht gefordert oder
+ In keinem Fall, außer wenn durch geltendes Recht gefordert oder schriftlich
+ zugesichert, ist irgendein Copyright-Inhaber oder irgendein Dritter, der
+ das Programm wie oben erlaubt modifiziert oder verbreitet hat, Ihnen gegenüber
+ für irgendwelche Schäden haftbar, einschließlich jeglicher allgemeiner
+ oder spezieller Schäden, Schäden durch Seiteneffekte (Nebenwirkungen) oder
+ Folgeschäden, die aus der Benutzung des Programms oder der Unbenutzbarkeit
+ des Programms folgen (einschließlich - aber nicht beschränkt auf - Datenverlust
+e, fehlerhafte Verarbeitung von Daten, Verluste, die von Ihnen oder anderen
+ getragen werden müssen, oder dem Unvermögen des Programms, mit irgendeinem
+ anderen Programm zusammenzuarbeiten), selbst wenn ein Copyright-Inhaber
+ oder Dritter über die Möglichkeit solcher Schäden unterrichtet worden war.
 \layout Standard
 
-schriftlich zugesichert, ist irgendein Copyright-Inhaber oder irgendein
- Dritter,
-\layout Standard
 
-der das Programm wie oben erlaubt modifiziert oder verbreitet hat, Ihnen
-\layout Standard
-
-gegenüber für irgendwelche Schäden haftbar, einschließlich jeglicher allgemeiner
-\layout Standard
-
-oder spezieller Schäden, Schäden durch Seiteneffekte (Nebenwirkungen) oder
-\layout Standard
-
-Folgeschäden, die aus der Benutzung des Programms oder der Unbenutzbarkeit
- des
-\layout Standard
-
-Programms folgen (einschließlich - aber nicht beschränkt auf - Datenverluste,
-\layout Standard
-
-fehlerhafte Verarbeitung von Daten, Verluste, die von Ihnen oder anderen
-\layout Standard
-
-getragen werden müssen, oder dem Unvermögen des Programms, mit irgendeinem
-\layout Standard
-
-anderen Programm zusammenzuarbeiten), selbst wenn ein Copyright-Inhaber
- oder
-\layout Standard
-
-Dritter über die Möglichkeit solcher Schäden unterrichtet worden war.
-\layout Standard
-
-\SpecialChar ~
-
-\layout Standard
-
+\series bold 
 Ende der Bedingungen
-\layout Standard
-
-\SpecialChar ~
-
-\layout Standard
-
-\SpecialChar ~
-
-\layout Standard
+\layout Subsection*
 
 Anhang:
-\layout Standard
-
-\SpecialChar ~
-
-\layout Standard
-
-\SpecialChar ~
-
-\layout Standard
+\layout Subsubsection*
 
 Wie Sie diese Bedingungen auf Ihre eigenen, neuen Programme anwenden können
 \layout Standard
 
-\SpecialChar ~
-
-\layout Standard
-
 Wenn Sie ein neues Programm entwickeln und wollen, daß es vom größtmöglichen
-\layout Standard
-
-Nutzen für die Allgemeinheit ist, dann erreichen Sie das am besten, indem
- Sie es
-\layout Standard
-
-zu freier Software machen, die jeder unter diesen Bestimmungen weiterverbreiten
-\layout Standard
-
-und verändern kann.
-\layout Standard
-
-\SpecialChar ~
-
+ Nutzen für die Allgemeinheit ist, dann erreichen Sie das am besten, indem
+ Sie es zu freier Software machen, die jeder unter diesen Bestimmungen weiterver
+breiten und verändern kann.
 \layout Standard
 
 Um dies zu erreichen, fügen Sie die folgenden Vermerke zu Ihrem Programm
  hinzu.
+ Am sichersten ist es, sie an den Anfang einer jeden Quelldatei zu stellen,
+ um den Gewährleistungsausschluß möglichst deutlich darzustellen; zumindest
+ aber sollte jede Datei eine Copyright-Zeile besitzen sowie einen kurzen
+ Hinweis darauf, wo die vollständigen Vermerke zu finden sind.
 \layout Standard
 
-Am sichersten ist es, sie an den Anfang einer jeden Quelldatei zu stellen,
- um
+Eine Zeile mit dem Programmnamen und einer kurzen Beschreibung
 \layout Standard
 
-den Gewährleistungsausschluß möglichst deutlich darzustellen; zumindest
- aber
-\layout Standard
-
-sollte jede Datei eine Copyright-Zeile besitzen sowie einen kurzen Hinweis
-\layout Standard
-
-darauf, wo die vollständigen Vermerke zu finden sind.
-\layout Standard
-
-\SpecialChar ~
-
-\layout Standard
-
-eine Zeile mit dem Programmnamen und einer kurzen Beschreibung
-\layout Standard
-
-Copyright (C) 19yy  Name des Autors
-\layout Standard
-
-\SpecialChar ~
-
+Copyright (C) Jahr Name des Autors
 \layout Standard
 
 This program is free software; you can redistribute it and/or modify it
- under
-\layout Standard
-
-the terms of the GNU General Public License as published by the Free Software
-\layout Standard
-
-Foundation; either version 2 of the License, or (at your option) any later
-\layout Standard
-
-version.
-\layout Standard
-
-\SpecialChar ~
-
+ under the terms of the GNU General Public License as published by the Free
+ Software Foundation; either version 2 of the License, or (at your option)
+ any later version.
 \layout Standard
 
 This program is distributed in the hope that it will be useful, but WITHOUT
- ANY
-\layout Standard
-
-WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS
- FOR A
-\layout Standard
-
-PARTICULAR PURPOSE.
+ ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS
+ FOR A PARTICULAR PURPOSE.
  See the GNU General Public License for more details.
 \layout Standard
 
-\SpecialChar ~
-
-\layout Standard
-
 You should have received a copy of the GNU General Public License along
- with
-\layout Standard
-
-this program; if not, write to the Free Software Foundation, Inc., 59 Temple
-\layout Standard
-
-Place, Suite 330, Boston, MA 02111-1307, USA.
-\layout Standard
-
-\SpecialChar ~
-
-\layout Standard
-
-\SpecialChar ~
-
-\layout Standard
-
-\SpecialChar ~
-
-\layout Standard
-
-\SpecialChar ~
-
-\layout Standard
-
-\SpecialChar ~
-
-\layout Standard
+ with this program; if not, write to the Free Software Foundation, Inc.,
+ 59 Temple Place, Suite 330, Boston, MA 02111-1307, USA.
+\layout Subsubsection*
 
 Auf Deutsch:
 \layout Standard
 
-\SpecialChar ~
-
+Eine Zeile mit dem Programmnamen und einer kurzen Beschreibung
 \layout Standard
 
-\SpecialChar ~
-
-\layout Standard
-
-eine Zeile mit dem Programmnamen und einer kurzen Beschreibung
-\layout Standard
-
-Copyright (C) 19jj  Name des Autors
-\layout Standard
-
-\SpecialChar ~
-
+Copyright (C) Jahr Name des Autors
 \layout Standard
 
 Dieses Programm ist freie Software.
- Sie können es unter den Bedingungen der GNU
-\layout Standard
-
-General Public License, wie von der Free Software Foundation veröffentlicht,
-\layout Standard
-
-weitergeben und/oder modifizieren, entweder gemäß Version 2 der Lizenz oder
-\layout Standard
-
-(nach Ihrer Option) jeder späteren Version.
-\layout Standard
-
-\SpecialChar ~
-
+ Sie können es unter den Bedingungen der GNU General Public License, wie
+ von der Free Software Foundation veröffentlicht, weitergeben und/oder modifizie
+ren, entweder gemäß Version 2 der Lizenz oder (nach Ihrer Option) jeder
+ späteren Version.
 \layout Standard
 
 Die Veröffentlichung dieses Programms erfolgt in der Hoffnung, daß es Ihnen
- von
-\layout Standard
-
-Nutzen sein wird, aber OHNE IRGENDEINE GARANTIE, sogar ohne die implizite
-\layout Standard
-
-Garantie der MARKTREIFE oder der VERWENDBARKEIT FÜR EINEN BESTIMMTEN ZWECK.
-\layout Standard
-
-Details finden Sie in der GNU General Public License.
-\layout Standard
-
-\SpecialChar ~
-
+ von Nutzen sein wird, aber OHNE IRGENDEINE GARANTIE, sogar ohne die implizite
+ Garantie der MARKTREIFE oder der VERWENDBARKEIT FÜR EINEN BESTIMMTEN ZWECK.
+ Details finden Sie in der GNU General Public License.
 \layout Standard
 
 Sie sollten eine Kopie der GNU General Public License zusammen mit diesem
-\layout Standard
-
-Programm erhalten haben.
- Falls nicht, schreiben Sie an die Free Software
-\layout Standard
-
-Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA 02111-1307, USA.
+ Programm erhalten haben.
+ Falls nicht, schreiben Sie an die Free Software Foundation, Inc., 59 Temple
+ Place, Suite 330, Boston, MA 02111-1307, USA.
 \layout Standard
 
 \SpecialChar ~
@@ -1344,53 +1051,24 @@ Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA 02111-1307, USA.
 \layout Standard
 
 Fügen Sie auch einen kurzen Hinweis hinzu, wie Sie elektronisch und per
- Brief
-\layout Standard
-
-erreichbar sind.
-\layout Standard
-
-\SpecialChar ~
-
+ Brief erreichbar sind.
 \layout Standard
 
 Wenn Ihr Programm interaktiv ist, sorgen Sie dafür, daß es nach dem Start
- einen
-\layout Standard
-
-kurzen Vermerk ausgibt:
-\layout Standard
-
-\SpecialChar ~
-
+ einen kurzen Vermerk ausgibt:
 \layout Standard
 
 version 69, Copyright (C) 19yy  Name des Autors
 \layout Standard
 
 Gnomovision comes with ABSOLUTELY NO WARRANTY; for details type `show w'.
- This
+ This is free software, and you are welcome to redistribute it under certain
+ conditions; type `show c' for details.
 \layout Standard
 
-is free software, and you are welcome to redistribute it under certain
-\layout Standard
 
-conditions; type `show c' for details.
-\layout Standard
-
-\SpecialChar ~
-
-\layout Standard
-
-\SpecialChar ~
-
-\layout Standard
-
+\series bold 
 Auf Deutsch:
-\layout Standard
-
-\SpecialChar ~
-
 \layout Standard
 
 Version 69, Copyright (C) 19jj  Name des Autors
@@ -1398,12 +1076,8 @@ Version 69, Copyright (C) 19jj  Name des Autors
 
 Für Gnomovision besteht KEINERLEI GARANTIE; geben Sie `show w' für Details
  ein.
-\layout Standard
-
-Gnonovision ist freie Software, die Sie unter bestimmten Bedingungen weitergeben
-\layout Standard
-
-dürfen; geben Sie `show c' für Details ein.
+ Gnonovision ist freie Software, die Sie unter bestimmten Bedingungen weitergebe
+n dürfen; geben Sie `show c' für Details ein.
 \layout Standard
 
 \SpecialChar ~
@@ -1411,45 +1085,21 @@ dürfen; geben Sie `show c' für Details ein.
 \layout Standard
 
 Die hypothetischen Kommandos `show w' und `show c' sollten die entsprechenden
-\layout Standard
-
-Teile der GNU-GPL anzeigen.
- Natürlich können die von Ihnen verwendeten Kommandos
-\layout Standard
-
-anders heißen als `show w' und `show c'; es könnten auch Mausklicks oder
-\layout Standard
-
-Menüpunkte sein - was immer am besten in Ihr Programm paßt.
-\layout Standard
-
-\SpecialChar ~
-
+ Teile der GNU-GPL anzeigen.
+ Natürlich können die von Ihnen verwendeten Kommandos anders heißen als
+ `show w' und `show c'; es könnten auch Mausklicks oder Menüpunkte sein
+ - was immer am besten in Ihr Programm paßt.
 \layout Standard
 
 Soweit vorhanden, sollten Sie auch Ihren Arbeitgeber (wenn Sie als Programmierer
-\layout Standard
-
-arbeiten) oder Ihre Schule einen Copyright-Verzicht für das Programm
-\layout Standard
-
-unterschreiben lassen.
+ arbeiten) oder Ihre Schule einen Copyright-Verzicht für das Programm unterschre
+iben lassen.
  Hier ein Beispiel.
  Die Namen müssen Sie natürlich ändern.
 \layout Standard
 
-\SpecialChar ~
-
-\layout Standard
-
-Yoyodyne, Inc., hereby disclaims all copyright interest in the program
-\layout Standard
-
-`Gnomovision' (which makes passes at compilers) written by James Hacker.
-\layout Standard
-
-\SpecialChar ~
-
+Yoyodyne, Inc., hereby disclaims all copyright interest in the program `Gnomovisi
+on' (which makes passes at compilers) written by James Hacker.
 \layout Standard
 
 Unterschrift von Ty Coon, 1 April 1989
@@ -1458,22 +1108,12 @@ Unterschrift von Ty Coon, 1 April 1989
 Ty Coon, President of Vice
 \layout Standard
 
-\SpecialChar ~
-
-\layout Standard
-
 Auf Deutsch:
 \layout Standard
 
 Die Yoyodyne GmbH erhebt keinen urheberrechtlichen Anspruch auf das von
- James
-\layout Standard
-
-Hacker geschriebene Programm ,Gnomovision` (einem Schrittmacher für Compiler).
-\layout Standard
-
-\SpecialChar ~
-
+ James Hacker geschriebene Programm ,Gnomovision` (einem Schrittmacher für
+ Compiler).
 \layout Standard
 
 Unterschrift von Ty Coon, 1.
@@ -1488,96 +1128,9 @@ Ty Coon, Vizepräsident
 \layout Standard
 
 Diese General Public License gestattet nicht die Einbindung des Programms
- in
-\layout Standard
-
-proprietäre Programme.
- Ist Ihr Programm eine Funktionsbibliothek, so kann es
-\layout Standard
-
-sinnvoller sein, das Binden proprietärer Programme mit dieser Bibliothek
- zu
-\layout Standard
-
-gestatten.
- Wenn Sie dies tun wollen, sollten Sie die GNU Library General Public
-\layout Standard
-
-License anstelle dieser Lizenz verwenden.
-\layout Standard
-
-\SpecialChar ~
-
-\layout Standard
-
-\SpecialChar ~
-
-\layout Standard
-
-\SpecialChar ~
-
-\layout Standard
-
-\SpecialChar ~
-
-\layout Standard
-
-\SpecialChar ~
-
-\layout Standard
-
-Über dieses Dokument ...
- GNU General Public License
-\layout Standard
-
-\SpecialChar ~
-
-\layout Standard
-
-\SpecialChar ~
-
-\layout Standard
-
-\SpecialChar ~
-This document was generated using the LaTeX2HTML translator Version 97.1
-\layout Standard
-
-(release) (July 13th, 1997)
-\layout Standard
-
-\SpecialChar ~
-
-\layout Standard
-
-Copyright © 1993, 1994, 1995, 1996, 1997, Nikos Drakos, Computer Based Learning
-\layout Standard
-
-Unit, University of Leeds.
-\layout Standard
-
-\SpecialChar ~
-
-\layout Standard
-
-The command line arguments were:
-\layout Standard
-
-latex2html -split 0 gpl-ger.tex.
-\layout Standard
-
-\SpecialChar ~
-
-\layout Standard
-
-The translation was initiated by Peter Gerwinski on 10/16/2000
-\layout Standard
-
-\SpecialChar ~
-
-\layout Standard
-
-Peter Gerwinski
-\layout Standard
-
-10/16/2000
+ in proprietäre Programme.
+ Ist Ihr Programm eine Funktionsbibliothek, so kann es sinnvoller sein,
+ das Binden proprietärer Programme mit dieser Bibliothek zu gestatten.
+ Wenn Sie dies tun wollen, sollten Sie die GNU Library General Public License
+ anstelle dieser Lizenz verwenden.
 \the_end
