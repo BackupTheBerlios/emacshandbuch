@@ -6,9 +6,10 @@
     
 ?>
 
-<div align="center"><h1>GNU Emacs Handbuch deutsch</h1></div>
+<div align="center"><h1>GNU Emacs Handbuch <br>in deutsch</h1></div>
 
-<br>
+<h3><p>Die aktuelle Entwicklungs-Online-Version des GNU Emacs Handbuches finden Sie demnächst unter:</p>
+<p><a href="http://www.emacs-handbuch.de"></a>http://www.emacs-handbuch.de</p></h3>
 
 <?php
 
