@@ -4,11 +4,14 @@
           </td>
          
           <td valign="top" width="80%">
-		copyright 2004 Jörg Meinhold
+	  
+<!--	  Kontakt:   -->
+	  
 	  </td>
 
  	</td>
     </tr>
  </table>
+ </font>
  </body>
  </html>

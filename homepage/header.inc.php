@@ -12,10 +12,12 @@
        </head>
       
       <body background="./bilder/gnu.png">
+      <font face="VERDANA,ARIAL,HELVETICA">
       <table cellspacing="5" cellpadding="15" border="0">
         <tr>
              <td valign="top" width="20%">
-                <a href="index.php">Startseite</a><br />
-                <a href="tagebuch.php">Tagebuch</a><br />
+                <p><a href="index.php">Home</a></p>
+		<p><a href="http://developer.berlios.de/projects/emacshandbuch/">Projektseite bei Berlios</a></p>
+                <p><a href="tagebuch.php">Tagebuch</a></p>
             </td>
             <td valign="top" width="80%">
