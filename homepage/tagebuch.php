@@ -1,4 +1,4 @@
-<?php<p></p>
+<?php
 
     $titel = "Tagebuch des Projektes";
     
@@ -6,7 +6,7 @@
     
 ?>
 
-<h1>Tagebuch</h1>
+<div align="center"><u><h1>Tagebuch</h1></u><br></div>
 
 <p>
 <ul> <u>29.04.2004</u><br>
