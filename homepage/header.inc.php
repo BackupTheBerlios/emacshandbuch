@@ -16,6 +16,6 @@
         <tr>
              <td valign="top" width="20%">
                 <a href="index.php">Startseite</a><br />
-                <a href="historie.php">Historie</a><br />
+                <a href="tagebuch.php">Tagebuch</a><br />
             </td>
             <td valign="top" width="80%">
