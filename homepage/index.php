@@ -6,7 +6,7 @@
     
 ?>
 
-<h1>GNU Emacs Handbuch deutsch</h1>
+<div align="center"><h1>GNU Emacs Handbuch deutsch</h1></div>
 
 <br>
 
